@@ -9,7 +9,7 @@ int main() {
 
     // Swapping logic
     a = a + b; // a becomes 35
-    b = a - b; // b becomes 15 (35 - 15)
+    b = a - b; // b becomes 20 (35 - 15)
     a = a - b; // a becomes 15 (35 - 20)
 
     printf("After swap:  a = %d, b = %d\n", a, b);
