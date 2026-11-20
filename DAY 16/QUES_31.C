@@ -5,4 +5,4 @@ void print_binary(int num) {
         print_binary(num / 2);
     }
     printf("%d", num % 2);
-}
+} 
